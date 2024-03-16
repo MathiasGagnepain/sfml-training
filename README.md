@@ -1,2 +1,2 @@
-# smfl-training
+# sfml-training
  
